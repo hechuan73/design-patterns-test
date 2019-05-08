@@ -1,2 +1,2 @@
 # design-patterns-test
-Test for design patterns in Java
+Template codes for design patterns in Java.
